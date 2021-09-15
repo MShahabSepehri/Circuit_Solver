@@ -7,4 +7,4 @@ For some elements there are some differences which I explained in below:<br />
   - Voltage dependent sources: after node1 and node2 you should write node3 and node4 which are indicating the voltage controlling the source. The value is the gain of the source.<br />
   - Current dependent sources: after node1 and node2 you should write number of the element (number of the line in which the element is defined) controlling the source. If the element is a coupled inductor you should write 1 or 2 at the end of the line to indicate which brach's current is controlling the source.<br />
 
-There are also 4 examples provided to help you.
+There are also 4 examples of input file provided in the "example" folder.
