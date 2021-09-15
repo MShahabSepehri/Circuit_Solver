@@ -1,0 +1,2 @@
+L1	sin(t)	cos(t)	cos(t)*sin(t)
+V1	sin(t)	-cos(t)	-cos(t)*sin(t)
